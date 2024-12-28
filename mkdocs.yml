@@ -1,0 +1,143 @@
+### Gernelles
+# venv aktivieren!
+# cmd
+# cd website-mkdocs
+# .\venv\Scripts\activate.bat
+# code .
+site_url: https://forschen-im-norden.de/
+
+### Mkdocs
+# https://squidfunk.github.io/mkdocs-material/reference/ 
+
+### Link zur mkdocs.yml
+# https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml#L135C3-L138C1
+# https://github.com/james-willett/mkdocs-material-youtube-tutorial/blob/main/mkdocs.yml  (aus dem Video)
+# https://squidfunk.github.io/mkdocs-material/getting-started/
+
+### Blogging-Plugin schon installiert
+# https://liang2kl.github.io/mkdocs-blogging-plugin/ 
+# https://github.com/liang2kl/mkdocs-blogging-plugin
+
+### VG WORT
+# https://www.selbstaendig-im-netz.de/einnahmequellen/vg-wort-meldung-deadline-infos-zu-den-zaehlpixeln-geschaetze-einnahmen/
+# <img style="display:none;" src="https://vg(123).met.vgwort.de/na/eine-lange-Reihe-von-Buchstaben-und-Ziffern" width="1" height="1" alt="">
+
+
+site_name: Forschen im Norden - "Agile Software Development and User Experience"
+
+nav:
+  - Home: index.md
+  - Team: team.md
+
+theme:
+  name: material
+ 
+  logo: apple-icon-76x76.png       # Bindet kleines Logo oben links ein
+  favicon: assets/images/favicon.ico
+  
+  custom_dir: overrides     # https://squidfunk.github.io/mkdocs-material/customization/#extending-the-theme
+
+  font: false                 # Keine Google-Fonts laden
+
+  features:
+  # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
+  #  - navigation.tabs         # Nav oben
+  #  - navigation.tabs.sticky  # Nav oben bleibt auch beim scrollen
+  #  - navigation.sections     # blendet links alle sections mit ein
+    - navigation.footer       # gibt einen Zurück-Button im Footer
+    - navigation.tracking     # linke Nav läuft beim Scrollen automatisch mit
+  #  - navigation.expand       # Nav links ausgeklappt
+    - navigation.indexes      # Keine doppelte Überschriften direkt untereinander
+    - navigation.top          # Pfeil nach oben wird angezeigt
+    - toc.integrate           # Ohne Navi auf der rechten Seite
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: de 
+    
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Zum Dark-mode
+      primary: brown   # Hauptfarbe: https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color
+      accent: red 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Zum Light-mode    
+      primary: brown
+      accent: red
+
+extra_css:
+  - stylesheets/extra.css     
+
+plugins:
+  - social
+  - search
+  - open-in-new-tab           # Alle Links in externen Tabs öffnen
+#  - ezlinks:
+#      wikilinks: true         # Erlaubt Wikilinks in [[  ]]
+#  - mermaid2                  # Grafische Darstellung von UML-Diagrammen
+  - blog:
+      blog_dir: .
+      post_readtime: true
+      archive: true            # Deaktiviert den Archiv-Navigationseintrag
+      categories: true         # Deaktiviert die Kategorien-Navigation
+      base_path: blog
+      show_recent: 5
+#      date_format: '%Y-%m-%d'
+#      tags:
+#        - Autor
+#        - User Experience
+#        - Agile
+  #- git-revision-date-localized:
+  #    type: 'datetime'
+  #    locale: 'de'
+
+extra_javascript:
+    - https://unpkg.com/mermaid/dist/mermaid.min.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/google
+      link: https://scholar.google.de/citations?user=-Oj8JzgAAAAJ
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/profile/Joerg_Thomaschewski
+    - icon: fontawesome/brands/linkedin
+      link: https://de.linkedin.com/in/j%C3%B6rg-thomaschewski-7074786/de
+    - icon: fontawesome/brands/xing
+      link: https://www.xing.com/profile/Joerg_Thomaschewski
+    - icon: fontawesome/solid/envelope
+      link: mailto:joerg.thomaschewski@hs-emden-leer.de 
+
+markdown_extensions:
+  - attr_list  
+  - md_in_html
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - footnotes
+  - toc:
+      toc_depth: 0                # hierdurch werden keine Unterstrukturen TOC einer Seite angezeigt
+  - admonition                    # hierdurch können Bereiche ein- und ausgeklappt werden
+  - pymdownx.details              # hierdurch können Bereiche ein- und ausgeklappt werden
+  - pymdownx.superfences          # hierdurch können Bereiche ein- und ausgeklappt werden
+  - pymdownx.mark
+  - pymdownx.arithmatex:
+      generic: true 
+  - pymdownx.highlight:
+      anchor_linenums: true 
+#  - pymdownx.emoji:
+#      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+#      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.superfences:
+        # make exceptions to highlighting of code:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+#          format: !!python/name:mermaid2.fence_mermaid_custom
+
+copyright: |
+  &copy; 2023-2025 für alle Inhalte Jörg Thomaschewski --- <a href="/Weitere/Impressum/index.html">Impressum</a> --- <a href="/Weitere/Datenschutzerklaerung/index.html">Datenschutzerklärung</a> 

@@ -1,0 +1,14 @@
+.md-grid {
+  max-width: 1000px; 
+}
+
+.md-content img {
+  border-width: 15px;
+  border-style: solid;
+  border-color: transparent;
+}
+
+.blog-metadata {
+  font-size: 0.9em;
+  color: #555;
+}

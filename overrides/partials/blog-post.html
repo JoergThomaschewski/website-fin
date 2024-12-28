@@ -1,0 +1,10 @@
+<div class="blog-metadata">
+    {% if page.meta.authors %}
+        <p>Authors: 
+            {% for author in page.meta.authors %}
+                {{ author }}{% if not loop.last %}, {% endif %}
+            {% endfor %}
+        </p>
+    {% endif %}
+    <p>Date: {{ page.meta.date }}</p>
+</div>
