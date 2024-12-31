@@ -1,5 +1,5 @@
 ---
-title: Benchmark UEQ-S Vergleich - "Impact of a Split into Single Items on the Response Rate of the User Experience Questionnaire Short (UEQ-S)"
+title: UX-Fragebogen mit einzelnen Items versus 8 Items
 date: 2024-11-18
 categories:
   - Publikation

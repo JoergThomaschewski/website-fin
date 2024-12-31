@@ -1,4 +1,5 @@
 ---
+title: UX Faktor Vertrauen für den UEQ+
 date: 2023-12-10
 categories:
   - Publikation

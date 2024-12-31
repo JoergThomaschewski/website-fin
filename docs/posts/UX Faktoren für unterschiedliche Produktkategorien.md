@@ -1,4 +1,5 @@
 ---
+title: UX Faktoren für unterschiedliche Produktkategorien
 date: 2023-12-09
 categories:
   - Publikation

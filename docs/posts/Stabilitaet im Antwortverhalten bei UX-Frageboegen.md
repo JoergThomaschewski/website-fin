@@ -1,4 +1,5 @@
 ---
+title: Stabilität im Antwortverhalten bei UX Fragebögen
 date: 2024-12-30
 categories:
   - Publikation

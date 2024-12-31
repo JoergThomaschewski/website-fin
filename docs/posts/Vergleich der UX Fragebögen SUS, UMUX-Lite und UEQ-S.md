@@ -1,4 +1,5 @@
 ---
+title: Vergleich der UX Fragebögen SUS, UMUX-Lite und UEQ-S
 date: 2023-12-01
 categories:
   - Publikation
