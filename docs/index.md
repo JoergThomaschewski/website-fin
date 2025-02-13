@@ -1,5 +1,2 @@
-# Research Group "Agile Software Development and User Experience"
+# Blog
 
-Unsere wissenschaftlichen Publikationen werden hier in Blogbeiträgen verständlich erklärt. 
-
----

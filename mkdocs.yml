@@ -32,8 +32,8 @@ nav:
 theme:
   name: material
  
-  logo: apple-icon-76x76.png       # Bindet kleines Logo oben links ein
-  favicon: assets/images/favicon.ico
+  #logo: apple-icon-76x76.png       # Bindet kleines Logo oben links ein
+  #favicon: assets/images/favicon.ico
   
   custom_dir: overrides     # https://squidfunk.github.io/mkdocs-material/customization/#extending-the-theme
 
@@ -62,14 +62,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Zum Dark-mode
-      primary: brown   # Hauptfarbe: https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color
-      accent: red 
+      primary: deep purple   # Hauptfarbe: https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color
+      accent: grey 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Zum Light-mode    
-      primary: brown
-      accent: red
+      primary: deep purple
+      accent: grey
 
 extra_css:
   - stylesheets/extra.css     
