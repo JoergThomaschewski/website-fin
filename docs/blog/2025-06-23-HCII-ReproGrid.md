@@ -82,3 +82,19 @@ Diese Faktoren helfen zu verstehen, **warum sich bestimmte Produkte natürlicher
 
 ### 🎯 Fazit
 Eine holistische Betrachtung der UX kann **versteckte Optimierungspotenziale aufdecken** und digitale Produkte gezielter verbessern. Wer UX wirklich verstehen will, muss über klassische Methoden hinausdenken.
+
+---
+
+???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+
+    --8<-- "jessica_kollmorgen.md"
+
+    --- 
+    
+    --8<-- "andreas_hinderks.md"
+
+    --- 
+    
+    --8<-- "joerg_thomaschewski.md"
+
+

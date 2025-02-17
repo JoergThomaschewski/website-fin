@@ -69,6 +69,21 @@ Lisa weiß, dass UX-Fragebögen wie der **UEQ+** eine strukturierte Messung erm�
 
 Mit dieser Einordnung atmet Lisa auf: **Ihr Wert von 1,1 liegt im akzeptablen Bereich**, aber es gibt noch Luft nach oben. Besonders im Bereich „Intuitive Nutzung“ schneidet ihre App schwächer ab als Trello. Lisa kann nun gezielt an Verbesserungen arbeiten – dank des neuen Benchmarks hat sie endlich eine klare Orientierung.  
 
+---
+
+???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+    
+    --8<-- "anna-lena_meiners.md"
+
+    ---
+    
+    --8<-- "andreas_hinderks.md"
+
+    ---
+    
+    --8<-- "joerg_thomaschewski.md"
+
+
 
 
 

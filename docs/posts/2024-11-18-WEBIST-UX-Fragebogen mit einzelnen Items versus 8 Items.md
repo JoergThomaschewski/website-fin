@@ -74,3 +74,18 @@ Die Forscher zogen ein klares Fazit: Für kurze Fragebögen wie den UEQ-S lohnt 
 
 Das bedeutet konkret: Wenn du bisher nur einzelne Fragen wie den Net Promoter Score (NPS) verwendet hast, solltest du darüber nachdenken, auf kurze, vollständige Fragebögen umzusteigen. Die Studie zeigt, dass eine umfassendere Befragung mehr Einblick in das Nutzererlebnis gibt, ohne die Rücklaufquote signifikant zu gefährden. Für sehr spezifische Anwendungsfälle, wie extrem begrenzte Bildschirmgrößen oder Sprachassistenten, könnten Einzel-Items jedoch weiterhin sinnvoll sein.
 
+---
+
+???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+
+    --8<-- "marco_schaa.md"
+
+    ---
+
+    --8<-- "jessica_kollmorgen.md"
+
+    ---
+    
+    --8<-- "joerg_thomaschewski.md"
+
+

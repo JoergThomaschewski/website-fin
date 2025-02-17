@@ -76,3 +76,20 @@ Genau hier setzt dieser Artikel an. Die Autoren möchten Orientierung geben und 
 Die UEQ-Familie wäre jedoch nur halb so nützlich, wenn es nicht praktische Hilfsmittel zur Auswertung gäbe, daher gibt es z jeder Version ein Excel-Tool zur Auswertung, mit denen Unternehmen die Ergebnisse nicht nur statistisch analysieren, sondern auch mit Benchmarks vergleichen können. So wird beispielsweise klar, ob ein Produkt im Vergleich zu über 240 anderen als exzellent oder verbesserungswürdig eingestuft wird.
 
 Dieser Artikel ist mehr als eine Einführung in die UEQ-Familie. Er zeigt, wie man in einer Flut von Informationen den Überblick behält und die passenden Werkzeuge zur Hand hat, um Nutzerfeedback gezielt in Verbesserungen umzusetzen. Die Autoren haben es geschafft, ein komplexes Thema klar und praxisnah darzustellen – eine wertvolle Hilfe für alle, die das Nutzererlebnis wirklich verstehen wollen.
+
+---
+
+???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+
+
+    --8<-- "jessica_kollmorgen.md"
+
+    --- 
+    
+    --8<-- "andreas_hinderks.md"
+
+    --- 
+    
+    --8<-- "joerg_thomaschewski.md"
+
+

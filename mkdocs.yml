@@ -117,7 +117,8 @@ markdown_extensions:
   - attr_list  
   - md_in_html
   - pymdownx.inlinehilite
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      base_path: docs/snippets
   - footnotes
   - toc:
       toc_depth: 0                # hierdurch werden keine Unterstrukturen TOC einer Seite angezeigt

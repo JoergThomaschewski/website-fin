@@ -66,3 +66,30 @@ Gleichzeitig sitzt ein anderes Team in einem großen Software-Unternehmen und ü
 Die Autoren dieser Studie haben genau diese Fragen untersucht. Durch umfassende Analysen mit über **360 Teilnehmern** konnten sie zeigen, dass UX-Faktoren je nach Produktart eine völlig unterschiedliche Rolle spielen. Während bei **Business-Software Effizienz und Steuerbarkeit** dominieren, sind für **Unterhaltungsangebote Faktoren wie Stimulation und Immersion** wichtiger.  
 
 Besonders wertvoll ist die Erkenntnis, dass die Bedeutung einzelner UX-Faktoren **stabil und gut vorhersagbar ist**. Das bedeutet, dass UX-Experten nicht mehr raten müssen, worauf sie sich konzentrieren sollten – sie können ihre Fragebögen und Messmethoden gezielt anpassen, um genau die richtigen UX-Aspekte zu erfassen.  
+
+
+---
+
+???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+
+
+
+    --8<-- "jessica_kollmorgen.md"
+
+    --- 
+
+    --8<-- "anna-lena_meiners.md"
+
+    ---
+    
+    --8<-- "andreas_hinderks.md"
+
+    --- 
+    
+    --8<-- "dominique_winter.md"
+
+    ---
+    
+    --8<-- "joerg_thomaschewski.md"
+
+

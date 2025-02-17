@@ -64,3 +64,17 @@ Die Autoren dieser Studie standen vor einer zentralen Frage: **Liefern verschied
 Um diese Frage zu beantworten, führten sie eine umfangreiche Studie mit **435 Teilnehmern** durch. Diese bewerteten vier bekannte digitale Produkte – **Netflix, PowerPoint, Zoom und BigBlueButton** – anhand von **drei UX-Fragebögen**: **SUS, UMUX-LITE und UEQ-S**. Die Forscher analysierten die Zusammenhänge und stellten fest, dass **SUS und UMUX-LITE fast identische Werte lieferten**, während **UEQ-S weitere Erkenntnisse** über die hedonische Qualität der Nutzung bot.  
 
 Besonders bemerkenswert war die Erkenntnis, dass der **UEQ-S eine gute Wahl im Vergleich zu SUS und UMUX-LITE darstellt**. Er kann die **Pragmatische Qualität** eines Produkts genauso zuverlässig erfassen wie die anderen beiden Fragebögen, bietet jedoch zusätzlich wertvolle Einblicke in die **Hedonische Qualität** – also die Freude und das ästhetische Empfinden bei der Nutzung. Damit liefert UEQ-S eine umfassendere Perspektive auf das Nutzererlebnis und kann in vielen Anwendungsfällen eine sinnvolle Alternative sein.  
+
+---
+
+???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+
+    --8<-- "jessica_kollmorgen.md"
+
+    --- 
+    
+    --8<-- "joerg_thomaschewski.md"
+
+
+
+

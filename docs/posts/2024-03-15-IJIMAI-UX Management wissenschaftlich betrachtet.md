@@ -52,3 +52,15 @@ Sie hält kurz inne. Die App fühlt sich besser an, sie ist intuitiver, die Nutz
 Ohne eine definierte UX-Strategie bleibt die Bewertung von Verbesserungen oft **subjektiv**. Viele Unternehmen setzen auf **agile Methoden**, aber ohne eine strategische Verankerung von UX bleibt sie ein reaktiver Prozess – getrieben von Einzelfeedbacks statt von klaren, messbaren Zielen. Zudem erschweren knappe Ressourcen und eine **unzureichende Abstimmung zwischen UX-Teams und Entwicklungsteams** eine systematische Umsetzung.  
 
 **Fazit:** UX-Management kann nur erfolgreich sein, wenn es **klare Ziele** gibt, die kontinuierlich gemessen und mit den Entwicklungsteams abgestimmt werden. Eine enge Integration in agile Prozesse sorgt dafür, dass UX nicht nur als letztes Feintuning betrachtet wird, sondern als **zentrale Säule der Produktentwicklung**.  
+
+---
+
+???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+   
+    --8<-- "andreas_hinderks.md"
+
+    --- 
+    
+    --8<-- "joerg_thomaschewski.md"
+
+

@@ -74,3 +74,11 @@ Der zeitliche Abstand von durchschnittlich 15 Tagen war sorgfältig gewählt. Ei
 
 **Unsere Tipps als Ergebnis der Studie:** Große Stichproben sind entscheidend, um stabile Mittelwerte zu gewährleisten und 
 Standardabweichungen sollten mit Vorsicht interpretiert werden, da sie oft nicht nur die Meinungsvielfalt widerspiegeln, sondern auch die Instabilität der Antworten.
+
+---
+
+???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+    
+    --8<-- "joerg_thomaschewski.md"
+
+

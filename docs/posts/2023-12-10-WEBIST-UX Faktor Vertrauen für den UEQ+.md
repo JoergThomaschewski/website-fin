@@ -86,3 +86,20 @@ In einer Studie mit **897 Teilnehmern** wurden vier **Kernaspekte von Vertrauen*
 Dank dieser validierten Skala können UX-Teams nun **gezielt messen**, ob Nutzer einer Anwendung vertrauen – und wo es möglicherweise **Probleme gibt**. Denn ohne Vertrauen bleibt eine App ungenutzt, egal wie gut ihre Funktionen sind.  
 
 💡 **Fazit:** Wer eine Finanz-App entwickelt, muss nicht nur für eine intuitive Nutzung sorgen – sondern auch dafür, dass Nutzer sich **sicher fühlen**. Denn UX ist mehr als Design und Usability. **Ohne Vertrauen funktioniert kein digitales Produkt.**  
+
+---
+
+???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+
+    
+    --8<-- "andreas_hinderks.md"
+
+    --- 
+    
+    --8<-- "maria_rauschenberger.md"
+
+    ---
+    
+    --8<-- "joerg_thomaschewski.md"
+
+
