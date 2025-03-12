@@ -67,7 +67,7 @@ Besonders bemerkenswert war die Erkenntnis, dass der **UEQ-S eine gute Wahl im V
 
 ---
 
-???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+???+ tip "Autor:innen aus dem "Forschen-im-Norden.de"-Team"
 
     --8<-- "jessica_kollmorgen.md"
 

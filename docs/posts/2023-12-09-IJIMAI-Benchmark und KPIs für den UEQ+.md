@@ -71,7 +71,7 @@ Mit dieser Einordnung atmet Lisa auf: **Ihr Wert von 1,1 liegt im akzeptablen Be
 
 ---
 
-???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+???+ tip "Autor:innen aus dem "Forschen-im-Norden.de"-Team"
     
     --8<-- "anna-lena_meiners.md"
 

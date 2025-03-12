@@ -76,7 +76,7 @@ Das bedeutet konkret: Wenn du bisher nur einzelne Fragen wie den Net Promoter Sc
 
 ---
 
-???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+???+ tip "Autor:innen aus dem "Forschen-im-Norden.de"-Team"
 
     --8<-- "marco_schaa.md"
 

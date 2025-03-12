@@ -79,7 +79,7 @@ Dieser Artikel ist mehr als eine Einführung in die UEQ-Familie. Er zeigt, wie m
 
 ---
 
-???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+???+ tip "Autor:innen aus dem "Forschen-im-Norden.de"-Team"
 
 
     --8<-- "jessica_kollmorgen.md"

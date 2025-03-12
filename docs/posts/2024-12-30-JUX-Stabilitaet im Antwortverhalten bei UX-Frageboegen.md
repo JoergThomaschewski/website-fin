@@ -77,7 +77,7 @@ Standardabweichungen sollten mit Vorsicht interpretiert werden, da sie oft nicht
 
 ---
 
-???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+???+ tip "Autor:innen aus dem "Forschen-im-Norden.de"-Team"
     
     --8<-- "joerg_thomaschewski.md"
 

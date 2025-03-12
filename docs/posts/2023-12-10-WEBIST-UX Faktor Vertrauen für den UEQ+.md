@@ -89,7 +89,7 @@ Dank dieser validierten Skala können UX-Teams nun **gezielt messen**, ob Nutzer
 
 ---
 
-???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+???+ tip "Autor:innen aus dem "Forschen-im-Norden.de"-Team"
 
     
     --8<-- "andreas_hinderks.md"

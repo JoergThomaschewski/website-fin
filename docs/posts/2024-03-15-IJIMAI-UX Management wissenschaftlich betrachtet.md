@@ -55,7 +55,7 @@ Ohne eine definierte UX-Strategie bleibt die Bewertung von Verbesserungen oft **
 
 ---
 
-???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+???+ tip "Autor:innen aus dem "Forschen-im-Norden.de"-Team"
    
     --8<-- "andreas_hinderks.md"
 

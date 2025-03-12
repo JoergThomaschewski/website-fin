@@ -70,7 +70,7 @@ Besonders wertvoll ist die Erkenntnis, dass die Bedeutung einzelner UX-Faktoren 
 
 ---
 
-???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+???+ tip "Autor:innen aus dem "Forschen-im-Norden.de"-Team"
 
 
 

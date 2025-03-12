@@ -19,7 +19,7 @@ Schwerpunkte "Digitale Medien, Gamification, User Experience und Accessibility."
 Schwerpunkte "User Experience, UX-Fragebögen, UX-Management."
 > Team: Tim-Can Werning
 
-* __[Dr. Andreas Klein](https://staff.hs-emden-leer.de/Profil/Andreas_Klein)__ (Hochschule Emden/Leer, Fachbereich Technik)<br>
+* __[Dr. Andreas M. Klein](https://staff.hs-emden-leer.de/Profil/Andreas_Klein)__ (Hochschule Emden/Leer, Fachbereich Technik)<br>
 Schwerpunkte "Voice User Interfaces, Audio"
 
 * __[Dominique Winter](http://www.designik.de)__ (Doktorand an der Universität Siegen)<br>

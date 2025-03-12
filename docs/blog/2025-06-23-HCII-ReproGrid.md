@@ -85,7 +85,7 @@ Eine holistische Betrachtung der UX kann **versteckte Optimierungspotenziale auf
 
 ---
 
-???+ tip "Autoren aus dem "Forschen-im-Norden.de"-Team"
+???+ tip "Autor:innen aus dem "Forschen-im-Norden.de"-Team"
 
     --8<-- "jessica_kollmorgen.md"
 
