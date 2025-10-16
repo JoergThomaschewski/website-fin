@@ -5,11 +5,11 @@ Im Jahr 2010 gegründete Jörg Thomaschewski die Forschungsgruppe __"Research Gr
 
 * __[Prof. Dr. Jörg Thomaschewski](https://thomaschewski.de/)__, (Hochschule Emden/Leer, Fachbereich Technik)<br>
 Schwerpunkte "Agile Software Development and User Experience" u.a. mit den Bereichen UX-Fragebögen, UX-Management, Requirements Engineering, Scrum, Kanban und E-Learning.
-> Team: Jessica Kollmorgen, Jörg Strick, Marco Schaa
+> Team: Jessica Kollmorgen, Norma Roth, Leonhard Tilly, Jörg Strick
 
 * __[Prof. Dr. Eva-Maria Schön](https://www.hs-emden-leer.de/forschung/forschungsprofil/forschende/wirtschaft/prof-dr-eva-maria-schoen)__  (Hochschule Emden/Leer, Fachbereich Wirtschaft)<br>
 Schwerpunkte "Agile Produktentwicklung und Agile Transformation, Agilität in der Hochschullehre, Requirements Engineering, Digitale Transformation."
-> Team: Hanna Looks, Jenny Pilz
+> Team: Jenny Pilz, Thorsten Hallwas
 
 * __[Prof. Dr. Maria Rauschenberger](https://mariarauschenberger.net/)__ (Hochschule Emden/Leer, Fachbereich Technik)<br>
 Schwerpunkte "Digitale Medien, Gamification, User Experience und Accessibility."
@@ -26,4 +26,4 @@ Schwerpunkte "Voice User Interfaces, Audio"
 Schwerpunkte "UX-Management, Organisationsentwicklung, erlebnisorientierte Produktentwicklung."
 
 ## Weitere Mitglieder der Forschungsgruppe
-Anna-Lena Meiners, Alischa Thomas, Ramin Nobakht, Yaprak Turhan, Thorsten Hallwas, Jana Deuschländer
+Anna-Lena Meiners, Alischa Thomas, Ramin Nobakht, Yaprak Turhan, Jana Deuschländer

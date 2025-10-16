@@ -18,7 +18,7 @@ tags:
 ![Sprachassistenten UX-Studie](assets/2025-03-01-article-VUI.png){align=right width="30%"}
 
 
-*Klein, Andreas M.; Kollmorgen, Jessica; Hinderks, Andreas; Schrepp, Martin; Rauschenberger, Maria; Escalona, Maria-Jose (2025): **Validation of the UEQ+ Scales for Voice Quality**. In: Computer Standards & Interfaces, Vol. 93.*, Doi: 10.1016/j.csi.2024.103971 **||** [Download](https://doi.org/10.1016/j.csi.2024.103971)
+*Klein, Andreas M.; Kollmorgen, Jessica; Hinderks, Andreas; Schrepp, Martin; Rauschenberger, Maria; Escalona, Maria-Jose (2025): __Validation of the UEQ+ Scales for Voice Quality__. In: Computer Standards & Interfaces, Vol. 93.*, Doi: 10.1016/j.csi.2024.103971 **||** [Download](https://doi.org/10.1016/j.csi.2024.103971)
 
 ### Zusammenfassung  
 

@@ -1,13 +1,12 @@
 ---
 title: Die perfekte Übersicht zur UEQ-Familie
-
 date: 2024-09-24
 categories:
   - Publikation
   - UX-Fragebogen
   - UEQ-Familie
 tags:
-  - UEQ
+  - UEQ, 
   - UEQ-S
   - UEQ+
   - UX-Scores Interpretation
@@ -19,7 +18,7 @@ tags:
 
 ![Artikel Auswahl des geeigneten UX-Fragebogens aus der UEQ-Familie](assets/2024-article-UEQ-Family.png){align=right width="30%"}
 
-*Kollmorgen, Jessica; Hinderks, Andreas; Thomaschewski, Jörg (2024): __Selecting the Appropriate User Experience Questionnaire and Guidance for Interpretation: the UEQ Family__. International Journal of Interactive Multimedia and Artificial Intelligence.* **||** [Download](https://www.ijimai.org/journal/sites/default/files/2024-08/ip2024_08_005.pdf)
+*Kollmorgen, Jessica; Hinderks, Andreas; Thomaschewski, Jörg (2024): __Selecting the Appropriate User Experience Questionnaire and Guidance for Interpretation: the UEQ Family__. International Journal of Interactive Multimedia and Artificial Intelligence, Vol. 9, No. 4, 126-139.* **||** [Download](https://www.ijimai.org/journal/bibcite/reference/3481)
 
 ### Zusammenfassung
 
